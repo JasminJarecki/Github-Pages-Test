@@ -81,7 +81,10 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <div class="bild">
    <img src="Bilder BJC/Alonso1.png" alt="Bild">
 </div>
-
+div.bild img {
+   margin-top:-20px;
+   margin-bottom:-20px;
+}
 
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
