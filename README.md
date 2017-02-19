@@ -17,13 +17,11 @@ Inhaltsverzeichnis
 <h2>
 Inhaltsverzeichnis
 </h2>
-<ul>
-<li>1. Einleitung</li>
+<ul> <li>1. Einleitung</li>
 <li> <ul>2. Stunden-Dokumentation<li>23.01.17</li>
 <li>23.01.17</li>
 <li>26.01.17</li>
 <li>09.02.17</li>
 <li>14.02.17</li>
 <li>16.02.17</li> </ul>
-<li>3. Projekt: Beauty and Joy of Computing</li>
-</ul>
+<li>3. Projekt: Beauty and Joy of Computing</li> </ul>
