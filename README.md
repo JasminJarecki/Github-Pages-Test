@@ -42,8 +42,8 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
 
-<p>Neben einigen Dingen, die wir unseren sogenannten <i><a href="#Spr">Sprite</a></i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
-Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i>Script</i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
+<p>Neben einigen Dingen, die wir unseren sogenannten <i><a href="#Spr">Sprite</a></i> (einer Art Akteur) tun lassen können, haben wir auch den <b><a href="#Ope">Operator</a></b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i><a href="#Scr">Script</a></i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
 Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
 <h4>
@@ -78,8 +78,8 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 </h3>
 <p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
 <p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
-<p><b>Script</b> - Abfolge der programmierten Befehlsblöcke</p>
-<p><b>Operator-Block</b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
+<p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke</p>
+<p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
 
 
 
