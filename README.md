@@ -30,7 +30,7 @@ Inhaltsverzeichnis
 <li>hij</li> </ul> </ul>
 
 <h3>
-<a id="Einl">1.Einleitung
+<a id="Einl">1.Einleitung</a>
 </h3>
-<p> Das Thema für das zweite Halbjahr 
+<p>Das Projekt für das zweite Halbjahr beschäftigt sich damit, weiter Programmieren mithilfe des Online-Kurses "<a href="http://bjc.berkeley.edu/index.html">Beauty and Joy of Computing</a>", der an der University of California, Berkeley, entwickelt worde ist, zu lernen. Der gesamte Kurs ist in sieben ogenannte Units aufgebaut, die in weitere Labs mit eigenen Aufgaben unterteilt sind.
 
