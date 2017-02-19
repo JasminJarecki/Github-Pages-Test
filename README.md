@@ -48,9 +48,10 @@ Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir u
 <h4>
 <p style="text-indent:20px;"><a id="092">09.02.17</a></p>
 </h4>
-<p>Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Nachdem wir das vorgeschriebene Script
-nachgebaut und ausprobiert hatten, fingen wir an selber ein paar Dinge auszuprobieren.<br>
-Als Hausaufgabe bearbeitet jeder für sich Unit 1 zur nächsten Stunde.</p>
+<p>Wie vereinbart haben wir uns bis zur heutigen Stunde bereits zu Hause mit den weiteren Aufgaben der Unit 1 beschäftigt. Und wie es der Zufall so wollte sind wir beide an der gleichen Aufgabe hängen geblieben. Somit widmeten wir uns in der Stunde dem siebten Arbeitsauftrag der dritten Seite des Labs 3. Es ging darum, ein <i> Script</i> zu bauen, sodass der <i>Sprite</i> eine Spirale malt. Nach einigen Versuchen gelang es uns schließlich gemeinsam dafür eine Lösung zu finden.<br>
+<p><img src="Bilder BJC/Spirale.png" alt="Spirale" style="width:630px;height:420px;border:420;"></p>
+Die Extension activity immer größer werdende Quadrate zu zeichnen ist uns fast
+geglückt.</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="142">14.02.17</a></p>
@@ -69,9 +70,9 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
 </h2>
 
-<h2>
+<h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
-</h2>
+</h3>
 
 
 
