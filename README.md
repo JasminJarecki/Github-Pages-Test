@@ -36,10 +36,13 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 <h4>
 <p style="text-indent:20px;"><a id="261">26.01.17</a></p>
 </h4>
-<p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt, dass es mehrere <i>Costumes</i> gibt, die mit Alonso betitelt sind. Jedoch haben diese jeweils ein anderes Bildformat. Ein <i>Costume</i> war da eben die Vektorgrafik, es gibt aber auch andere. Das hatten wir in der Stunde nicht bemerkt, weswegen wir das falsch <i>Costume</i> gewählt haben. Nun funktionierte das Wechseln der <i>Costumes</i> auch ganz problemlos.
+<p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt, dass es mehrere <i>Costumes</i> gibt, die mit Alonso betitelt sind. Jedoch haben diese jeweils ein anderes Bildformat. Ein <i>Costume</i> war da eben die Vektorgrafik, es gibt aber auch andere. Das hatten wir in der Stunde nicht bemerkt, weswegen wir das falsch <i>Costume</i> gewählt haben. Nun funktionierte das Wechseln der <i>Costumes</i> auch ganz problemlos.</p>
+
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
-Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
-</p>
+
+<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i>Script</i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
+Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="092">09.02.17</a></p>
