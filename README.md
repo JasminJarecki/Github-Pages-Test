@@ -32,7 +32,7 @@ Im Folgenden soll nun zunächst einmal dargestellt werden, wie das Arbeiten mit 
 <p style="text-indent:20px;"><a id="231">23.01.17</a></p>
 </h4>
 <p>Nachdem wir unsere Entscheidung gefällt haben, den Online-Kurs „Beauty and Joy of Computing“ zu machen, fingen wir in der heutigen Stunde an die erste Unit zu bearbeiten.<br>
-Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Anschließend ging es dann mit den ersten Arbeitsaufträgen zum Programmieren selbst los. <br>Nachdem wir erfolgreich die ersten zwei Teilaufgaben gelöst hatten kam das erste Problem auf. Das Kostüm Alonso sollte gespiegelt werden, was aber nicht funktionierte, da es sich bei dem Format des <i>Costume</i> um eine nicht zu bearbeitende Vektorgrafik handelte. Letztendlich schafften wir es die Grafik zu Spiegeln, allerdings nur indem wir ein eigenes Costume über ein paar Umwege gemacht haben. Dieses war dann der gespiegelte Alonso.
+Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Anschließend ging es dann mit den ersten Arbeitsaufträgen zum Programmieren selbst los. <br>Nachdem wir erfolgreich die ersten zwei Teilaufgaben gelöst hatten kam das erste Problem auf. Das Kostüm Alonso sollte gespiegelt werden, was aber nicht funktionierte, da es sich bei dem Format des <i><a href="#Cos">Costume</a></i> um eine nicht zu bearbeitende Vektorgrafik handelte. Letztendlich schafften wir es die Grafik zu Spiegeln, allerdings nur indem wir ein eigenes Costume über ein paar Umwege gemacht haben. Dieses war dann der gespiegelte Alonso.
 </p>
 
 <h4>
@@ -42,7 +42,7 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
 
-<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+<p>Neben einigen Dingen, die wir unseren sogenannten <i><a href="#Spr">Sprite</a></i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
 Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i>Script</i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
 Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
@@ -76,10 +76,10 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
-<br><b>Sprite</b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso
-<br><b>Costume</b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern
-<br><b>Script</b> - Abfolge der programmierten Befehlsblöcke
-<br><b>Operator-Block</b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt
+<p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
+<p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
+<p><b>Script</b> - Abfolge der programmierten Befehlsblöcke</p>
+<p><b>Operator-Block</b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
 
 
 
