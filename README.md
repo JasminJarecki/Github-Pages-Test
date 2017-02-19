@@ -19,7 +19,7 @@ Inhaltsverzeichnis
 <h3>
 <a id="Einl">1. Einleitung</a>
 </h3>
-<p>Das Projekt für das zweite Halbjahr beschäftigt sich damit, weiter Programmieren mithilfe des Online-Kurses "<a href="http://bjc.berkeley.edu/index.html">Beauty and Joy of Computing</a>", der an der University of California, Berkeley, entwickelt worden ist, zu lernen. Der gesamte Kurs ist in sieben ogenannte Units aufgebaut, die in weitere Labs mit eigenen Aufgaben unterteilt sind.<br>In diesem Online-Kurs wird die Programmiersprache "Snap!" verwendet, in deren Gebrauch man in der ersten Unit eingeführt wird. Die Schwierigkeit nimmt mit dem Fortschreiten der Units und Labs stetig zu.
+<p>Das Projekt für das zweite Halbjahr beschäftigt sich damit, weiter Programmieren mithilfe des Online-Kurses "<a href="http://bjc.berkeley.edu/index.html">Beauty and Joy of Computing</a>", der an der University of California, Berkeley, entwickelt worden ist, zu lernen. Der gesamte Kurs ist in sieben sogenannte Units aufgebaut, die in weitere Labs mit eigenen Aufgaben unterteilt sind.<br>In diesem Online-Kurs wird die Programmiersprache "Snap!" verwendet, in deren Gebrauch man in der ersten Unit eingeführt wird. Die Schwierigkeit nimmt mit dem Fortschreiten der Units und Labs stetig zu.
 Im Folgenden soll nun zunächst einmal dargestellt werden, wie das Arbeiten mit dem Kurs in den Stunden verlief und außerdem soll es im zweiten Teil eine detailierte Anleitung zum Lösen der einzelnen Aufgaben geben.</p>
 <p><img src="Bilder BJC/bjc200.png" alt="bjc200" style="width:210px;height:210px;border:0;"></p>
 
