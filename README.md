@@ -76,6 +76,10 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
+<br><b>Sprite</b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso
+<br><b>Costume</b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern
+<br><b>Script</b> - Abfolge der programmierten Befehlsblöcke
+<br><b>Operator-Block</b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt
 
 
 
