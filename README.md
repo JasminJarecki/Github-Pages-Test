@@ -19,7 +19,7 @@ Inhaltsverzeichnis
 <h3>
 <a id="Einl">1. Einleitung</a>
 </h3>
-<p>Das Projekt für das zweite Halbjahr beschäftigt sich damit, weiter Programmieren mithilfe des Online-Kurses "<a href="http://bjc.berkeley.edu/index.html">Beauty and Joy of Computing</a>", der an der University of California, Berkeley, entwickelt worden ist, zu lernen. Der gesamte Kurs ist in sieben sogenannte Units aufgebaut, die in weitere Labs mit eigenen Aufgaben unterteilt sind.<br>In diesem Online-Kurs wird die Programmiersprache "Snap!" verwendet, in deren Gebrauch man in der ersten Unit eingeführt wird. Die Schwierigkeit nimmt mit dem Fortschreiten der Units und Labs stetig zu.
+<p>Das Projekt für das zweite Halbjahr beschäftigt sich damit, weiter Programmieren mithilfe des Online-Kurses "<a href="http://bjc.berkeley.edu/index.html">Beauty and Joy of Computing</a>", der an der University of California, Berkeley, entwickelt worden ist, zu lernen. Der gesamte Kurs ist in sieben ogenannte Units aufgebaut, die in weitere Labs mit eigenen Aufgaben unterteilt sind.<br>In diesem Online-Kurs wird die Programmiersprache "Snap!" verwendet, in deren Gebrauch man in der ersten Unit eingeführt wird. Die Schwierigkeit nimmt mit dem Fortschreiten der Units und Labs stetig zu.
 Im Folgenden soll nun zunächst einmal dargestellt werden, wie das Arbeiten mit dem Kurs in den Stunden verlief und außerdem soll es im zweiten Teil eine detailierte Anleitung zum Lösen der einzelnen Aufgaben geben.</p>
 <p><img src="Bilder BJC/bjc200.png" alt="bjc200" style="width:210px;height:210px;border:0;"></p>
 
@@ -50,8 +50,10 @@ Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir u
 </h4>
 <p>Wie vereinbart haben wir uns bis zur heutigen Stunde bereits zu Hause mit den weiteren Aufgaben der Unit 1 beschäftigt. Und wie es der Zufall so wollte sind wir beide an der gleichen Aufgabe hängen geblieben. Somit widmeten wir uns in der Stunde dem siebten Arbeitsauftrag der dritten Seite des Labs 3. Es ging darum, ein <i> Script</i> zu bauen, sodass der <i>Sprite</i> eine Spirale malt. Nach einigen Versuchen gelang es uns schließlich gemeinsam dafür eine Lösung zu finden.<br>
 <p><img src="Bilder BJC/Spirale.png" alt="Spirale" style="width:630px;height:420px;border:420;"></p>
-Die Extension activity immer größer werdende Quadrate zu zeichnen ist uns fast
-geglückt.</p>
+<p>Das nächste Problem kam dann auf, als die Aufgabe lautete immer größer werdende Quadrate zu zeichnen, sodass ganz innen ein kleines war und nach außen die Quadrate immer größer wurden.</p>
+<p><img src="Bilder BJC/Quadrate1.png" alt="Quadrate1" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Quadrate3.png" alt="Quadrate3" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Quadrate2.png" alt="Quadrate2" style="width:630px;height:420px;border:420;"></p>
 
 <h4>
 <p style="text-indent:20px;"><a id="142">14.02.17</a></p>
@@ -66,9 +68,9 @@ Als Hausaufgabe schauen wir uns lag 4 an.</p>
 <p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Außerdem
 haben wir rausgefunden wie man eine Variable erstellt.</p>
 
-<h2>
+<h3>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
-</h2>
+</h3>
 
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
