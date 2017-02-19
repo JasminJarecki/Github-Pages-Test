@@ -11,7 +11,7 @@ Inhaltsverzeichnis
 <li><a href="#142">14.02.17</a></li>
 <li><a href="#162">16.02.17</a></li> </ul>
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
-<ul> <li> abc</li>
+<ul> <li> </li>
 <li>efg</li>
 <li>hij</li> </ul> 
 <li><a href="#Sti">4. Stichwortverzeichnis</a></li></ul>
@@ -41,7 +41,7 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
 
-<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Probleme bearbeitet.<br>
+<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
 Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i>Script</i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
 Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
@@ -75,7 +75,6 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
-<br><b>Sprite</b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso
-<br><b>Costume</b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern
-<br><b>Script</b> - Abfolge der programmierten Befehlsblöcke
-<br><b>Operator-Block</b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt
+
+
+
