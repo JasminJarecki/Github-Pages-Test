@@ -40,29 +40,29 @@ Inhaltsverzeichnis
 </h3>
 
 <h4>
-<p style="text-indent:20px;"><a id="231">23.01.17</a>
+<p style="text-indent:20px;"><a id="231">23.01.17</a></p>
 </h4>
-<p>blablabla</p></p>
+<p style="text-indent:20px;">blablabla</p>
 
 <h4>
-<a id="261">26.01.17</a>
+<p style="text-indent:20px;"><a id="261">26.01.17</a></p>
 </h4>
-<p>blablablabla</p>
+<p style="text-indent:20px;">blablablabla</p>
 
 <h4>
-<a id="092">09.02.17</a>
+<p style="text-indent:20px;"><a id="092">09.02.17</a></p>
 </h4>
-<p>blabliblub</p>
+<p style="text-indent:20px;">blabliblub</p>
 
 <h4>
-<a id="142">14.02.17</a>
+<p style="text-indent:20px;"><a id="142">14.02.17</a></p>
 </h4>
-<p>blabliblub</p>
+<p style="text-indent:20px;">blabliblub</p>
 
 <h4>
-<a id="162">16.02.17</a>
+<p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
-<p>blabliblubblub</p>
+<p style="text-indent:20px;">blabliblubblub</p>
 
 
 
