@@ -17,7 +17,7 @@ Inhaltsverzeichnis
 <h2>
 Inhaltsverzeichnis
 </h2>
-<ul> <li><a href="#Einl">1. Einleitung</li>
+<ul> <li><a href="#Einl">1. Einleitung</a></li>
 <li>2. Stunden-Dokumentation</li>
 <ul> <li>23.01.17</li>
 <li>26.01.17</li>
