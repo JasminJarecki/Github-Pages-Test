@@ -28,25 +28,17 @@ Inhaltsverzeichnis
 <h4>
 <p style="text-indent:20px;"><a id="231">23.01.17</a></p>
 </h4>
-<p>Jasmin und ich haben uns entschieden für unser neues Projekt mit der
-Programmiersprache "snap!" zu arbeiten. Nach der Anmeldung begannen wir mit Unit 1 lab 1
-des Kurses der "Beauty and joy of Computing" Seite. Nachdem wir erfolgreich die ersten zwei
-Teilaufgaben gelöst hatten kam das erste Problem auf. Das Kostüm Alonso sollte gespiegelt
-werden was aber nicht funktioniert da es sich bei dem Format des Costume um eine nicht zu
-bearbeitende Vektorgrafik handelte. Mit ein paar Umwegen über fotoshop und ähnlichem haben
-wir es schließlich geschafft die Grafik zu spiegeln.</p>
+<p>Nachdem wir unsere Entscheidung gefällt haben, den Online-Kurs „Beauty and Joy of Computing“ zu machen, fingen wir in der heutigen Stunde an die erste Unit zu bearbeiten.<br>
+Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Anschließend ging es dann mit den ersten Arbeitsaufträgen zum Programmieren selbst los. <br>Nachdem wir erfolgreich die ersten zwei Teilaufgaben gelöst hatten kam das erste Problem auf. Das Kostüm Alonso sollte gespiegelt werden, was aber nicht funktionierte, da es sich bei dem Format des <i>Costume</i> um eine nicht zu bearbeitende Vektorgrafik handelte. Letztendlich schafften wir es die Grafik zu Spiegeln, allerdings nur indem wir ein eigenes Costume über ein paar Umwege gemacht haben. Dieses war dann der gespiegelte Alonso.
+</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="261">26.01.17</a></p>
 </h4>
-<p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt dass es mehrere
-Alonso Costumes zur Auswahl gibt und wir nur das falsche ausgewählt hatten. Auf der nächsten
-Seite haben wir den Ramdom block kennengelernt, welcher sich auf alle,im Intervall
-angegebenen Zahlen bezieht. Die darauffolgenden Aufgaben haben wir ohne Probleme
-bearbeitet.<br>
-Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Nachdem wir das vorgeschriebene Script
-nachgebaut und ausprobiert hatten, fingen wir an selber ein paar Dinge auszuprobieren.
-Als Hausaufgabe bearbeitet jeder für sich Unit 1 zur nächsten Stunde.</p>
+<p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt, dass es mehrere <i>Costumes</i> gibt, die mit Alonso betitelt sind. Jedoch haben diese jeweils ein anderes Bildformat. Ein <i>Costume</i> war da eben die Vektorgrafik, es gibt aber auch andere. Das hatten wir in der Stunde nicht bemerkt, weswegen wir das falsch <i>Costume</i> gewählt haben. Nun funktionierte das Wechseln der <i>Costumes</i> auch ganz problemlos.
+<p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:420px;height:210px;border:420;"></p>
+Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i>(einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <i>pick random x to y</i> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="092">09.02.17</a></p>
