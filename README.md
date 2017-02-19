@@ -13,7 +13,8 @@ Inhaltsverzeichnis
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li> abc</li>
 <li>efg</li>
-<li>hij</li> </ul> </ul>
+<li>hij</li> </ul> 
+<li><a href="#Sti">4. Stichwortverzeichnis</a></ul>
 
 <h3>
 <a id="Einl">1. Einleitung</a>
@@ -66,6 +67,10 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 
 <h2>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
+</h2>
+
+<h2>
+<a id="Sti">4. Stichwortverzeichnis</a>
 </h2>
 
 
