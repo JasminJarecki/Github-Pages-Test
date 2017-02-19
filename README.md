@@ -49,7 +49,7 @@ nachgebaut und ausprobiert hatten, fingen wir an selber ein paar Dinge auszuprob
 Als Hausaufgabe bearbeitet jeder für sich Unit 1 zur nächsten Stunde.</p>
 
 <h4>
-<p><a id="092">09.02.17</a></p>
+<p style="text-indent:20px;"><a id="092">09.02.17</a></p>
 </h4>
 <p>Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Nachdem wir das vorgeschriebene Script
 nachgebaut und ausprobiert hatten, fingen wir an selber ein paar Dinge auszuprobieren.<br>
@@ -58,21 +58,19 @@ Als Hausaufgabe bearbeitet jeder für sich Unit 1 zur nächsten Stunde.</p>
 <h4>
 <p style="text-indent:20px;"><a id="142">14.02.17</a></p>
 </h4>
-<p style="text-indent:20px;">Heute haben wir die Extension activities gelöst und haben die letzte Seite von lab 3 inklusive der
-<p style="text-indent:20px;">Extension activities mit Ton bearbeitet.
-<p style="text-indent:20px;">Als Hausaufgabe schauen wir uns lag 4 an.</p>
+<p>Heute haben wir die Extension activities gelöst und haben die letzte Seite von lab 3 inklusive der
+Extension activities mit Ton bearbeitet.
+Als Hausaufgabe schauen wir uns lag 4 an.</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
-<p style="text-indent:20px;">Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Außerdem
-<p style="text-indent:20px;">haben wir rausgefunden wie man eine Variable erstellt.</p>
+<p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Außerdem
+haben wir rausgefunden wie man eine Variable erstellt.</p>
 
 <h2>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
 </h2>
 
 
-
-lkjkhui
 
