@@ -24,7 +24,7 @@ Inhaltsverzeichnis
 <li><a href="#092">09.02.17</a></li>
 <li><a href="#142">14.02.17</a></li>
 <li><a href="#162">16.02.17</a></li> </ul>
-<li>3. Projekt: Beauty and Joy of Computing</li>
+<li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li> abc</li>
 <li>efg</li>
 <li>hij</li> </ul> </ul>
@@ -63,6 +63,10 @@ Inhaltsverzeichnis
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
 <p style="text-indent:20px;">blabliblubblub</p>
+
+<h2>
+<a id="Einf">Einführung in das Programmieren mit Snap!</a>
+</h2>
 
 
 
