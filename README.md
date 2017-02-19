@@ -40,8 +40,7 @@ Inhaltsverzeichnis
 </h3>
 
 <h4>
-<a id="231">23.01.17</a>
-
+<p style="text-indent:20px;"><a id="231">23.01.17</a></p>
 </h4>
 <p>blablabla</p>
 
