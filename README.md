@@ -78,6 +78,11 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <p>Die erste zu programmierende Aufgabe ist es, ein <i>Script</i> zu bauen, dass, wenn man den <i>Sprite</i> anklickt, das <i>Costume</i> geändert wird. Aufgrund der sehr detaillierten Anleitungen auf den Aufgabenseiten selbst, wird hier auf genauere Erläuterungen verzichtet und nur das letztendliche <i>Script</i> eingefügt.</p>
 <p><img src="Bilder BJC/Alonso1.png" alt="Alonso1" style="width:630px;height:420px;border:420;"></p>
 
+<div class="bild">
+   <img src="Bilder BJC/Alonso1.png" alt="Bild">
+</div>
+
+
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
