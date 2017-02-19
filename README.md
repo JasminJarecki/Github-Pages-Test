@@ -22,8 +22,8 @@ Inhaltsverzeichnis
 <ul> <li><a href="#231">23.01.17</a></li>
 <li><a href="#261">26.01.17</a></li>
 <li><a href="#092">09.02.17</a></li>
-<li>14.02.17</li>
-<li>16.02.17</li> </ul>
+<li><a href="#142">14.02.17</a></li>
+<li><a href="#162">16.02.17</a></li> </ul>
 <li>3. Projekt: Beauty and Joy of Computing</li>
 <ul> <li> abc</li>
 <li>efg</li>
@@ -47,10 +47,24 @@ Inhaltsverzeichnis
 
 <h4>
 <a id="261">26.01.17</a>
+</h4>
 <p>blablablabla</p>
 
 <h4>
 <a id="092">09.02.17</a>
+</h4>
+<p>blabliblub</p>
+
+<h4>
+<a id="142">14.02.17</a>
+</h4>
+<p>blabliblub</p>
+
+<h4>
+<a id="162">16.02.17</a>
+</h4>
+<p>blabliblubblub</p>
+
 
 
 
