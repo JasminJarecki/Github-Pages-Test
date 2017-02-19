@@ -28,7 +28,7 @@ Inhaltsverzeichnis
 <h4>
 <p style="text-indent:20px;"><a id="231">23.01.17</a></p>
 </h4>
-<p style="text-indent:20px;">Jasmin und ich haben uns entschieden für unser neues Projekt mit der
+<p>Jasmin und ich haben uns entschieden für unser neues Projekt mit der
 Programmiersprache "snap!" zu arbeiten. Nach der Anmeldung begannen wir mit Unit 1 lab 1
 des Kurses der "Beauty and joy of Computing" Seite. Nachdem wir erfolgreich die ersten zwei
 Teilaufgaben gelöst hatten kam das erste Problem auf. Das Kostüm Alonso sollte gespiegelt
@@ -39,7 +39,7 @@ wir es schließlich geschafft die Grafik zu spiegeln.</p>
 <h4>
 <p style="text-indent:20px;"><a id="261">26.01.17</a></p>
 </h4>
-<p style="text-indent:20px;">Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt dass es mehrere
+<p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt dass es mehrere
 Alonso Costumes zur Auswahl gibt und wir nur das falsche ausgewählt hatten. Auf der nächsten
 Seite haben wir den Ramdom block kennengelernt, welcher sich auf alle,im Intervall
 angegebenen Zahlen bezieht. Die darauffolgenden Aufgaben haben wir ohne Probleme
