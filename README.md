@@ -37,7 +37,7 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 </h4>
 <p>Heute haben wir uns erneut an das Alonso Problem gesetzt und bemerkt, dass es mehrere <i>Costumes</i> gibt, die mit Alonso betitelt sind. Jedoch haben diese jeweils ein anderes Bildformat. Ein <i>Costume</i> war da eben die Vektorgrafik, es gibt aber auch andere. Das hatten wir in der Stunde nicht bemerkt, weswegen wir das falsch <i>Costume</i> gewählt haben. Nun funktionierte das Wechseln der <i>Costumes</i> auch ganz problemlos.
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
-Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i>(einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <i>pick random x to y</i> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
 </p>
 
 <h4>
