@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-<h2>
+<h3>
 Inhaltsverzeichnis
-</h2>
+</h3>
 <ul> <li><a href="#Einl">1. Einleitung</a></li>
 <li><a href="#Dok">2. Stunden-Dokumentation</a></li>
 <ul> <li><a href="#231">23.01.17</a></li>
@@ -14,7 +14,7 @@ Inhaltsverzeichnis
 <ul> <li> abc</li>
 <li>efg</li>
 <li>hij</li> </ul> 
-<li><a href="#Sti">4. Stichwortverzeichnis</a></ul>
+<li><a href="#Sti">4. Stichwortverzeichnis</a></li></ul>
 
 <h3>
 <a id="Einl">1. Einleitung</a>
