@@ -41,7 +41,7 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
 
-<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+<p>Neben einigen Dingen, die wir unseren sogenannten <i>Sprite</i> (einer Art Akteur) tun lassen können, haben wir auch den <b>Operator</b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Probleme bearbeitet.<br>
 Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i>Script</i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
 Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
@@ -75,6 +75,7 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
-
-
-
+<br>Sprite - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso
+<br>Costume - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern
+<br>Script - Abfolge der programmierten Befehlsblöcke
+<br>Operator-Block - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt
