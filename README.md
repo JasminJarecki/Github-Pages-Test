@@ -40,9 +40,9 @@ Inhaltsverzeichnis
 </h3>
 
 <h4>
-<p style="text-indent:20px;"><a id="231">23.01.17</a></p>
+<p style="text-indent:20px;"><a id="231">23.01.17</a>
 </h4>
-<p>blablabla</p>
+<p>blablabla</p></p>
 
 <h4>
 <a id="261">26.01.17</a>
