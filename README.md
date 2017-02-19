@@ -69,7 +69,7 @@ Als Hausaufgabe schauen wir uns lag 4 an.</p>
 haben wir rausgefunden wie man eine Variable erstellt.</p>
 
 <h2>
-<a id="Einf">Einführung in das Programmieren mit Snap!</a>
+<a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
 </h2>
 
 
