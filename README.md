@@ -12,7 +12,7 @@
 <li><a href="#162">16.02.17</a></li> </ul>
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li><a href="#U1L1">Programmieren von Lab1: Building an App</a></li>
-<li>Programmieren von Lab2: Sprite Drawing and Interaction</li>
+<li><a href="#U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></li>
 <li>Programmieren von Lab3: Building Your Own Blocks</li> 
 <li>Programmieren von Lab4:Building Grids for Games</li></ul> 
 <li><a href="#Sti">4. Stichwortverzeichnis</a></li></ul>
@@ -86,6 +86,10 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <p><img src="Bilder BJC/pickrandom3.png" alt="pickrandom3" style="width:384px;height:183px;border:420;">
 <p>Als nächstes wird verlangt, dass man ein zweites Script baut, das besagt, dass wenn die grüne Flagge angeklickt wird, der Sprite mit dem Costume Alonso sich an einen bestimmten Ort bewegt und anschließend etwas sagt. Zudem soll die Nachricht verschwinden, sobald man auf Alonso klickt (um das erste Script laufen zu lassen).<br> Für dieses zweite Script benötigt man zunächst den <i>Control</i>-Block <i>when [grüne Flagge] clicked. Wie die Form des Blocks zeigt, kann dieser nur am Anfang eines Scripts benutzt werden. Er bedeutet, dass, wenn die grüne Flagge angeklickt wird, das Script gestartet wird. Nach diesem Block braucht man dann den <i>Motion</i>-Block <i>go to x:0 y:0</i>, mit dem man dem Sprite eine neue Position zuweisen kann. Unabhängig davon, wo der Sprite sich befindet, begibt er sich direkt zu dem angegebenen Punkt, soblad der Block im Script durchlaufen wird. Für die Werte x und y kann man hier dann die gewünschten "Koordinaten" (in Pixeln) angeben. Anschließend hängt man den <i>Looks</i>-Block <i>say [abc]</i> an das bereits vorhandene Script an und füllt das Feld mit einer beliebigen Nachricht aus.<br> An das erste Script muss man dann auch noch diesen Block hinzufügen, allerdings mit einem nicht ausgefülltem Feld, damit die vorige Nachricht verschwindet.
 <p><img src="Bilder BJC/saysomething.png" alt="saysomething" style="width:630px;height:420px;border:420;">
+<br>
+<h4>
+<p style="text-indent:20px;"><a id="U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></p>
+</h4>
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>
 
