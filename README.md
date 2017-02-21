@@ -80,7 +80,7 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 </h4>
 <p>Die erste zu programmierende Aufgabe ist es, ein <i>Script</i> zu bauen, sodass, wenn man den <i>Sprite</i> anklickt, das <i>Costume</i> geändert wird. Aufgrund der sehr detaillierten Anleitungen auf den Aufgabenseiten selbst, wird hier auf genauere Erläuterungen verzichtet und nur das letztendliche <i>Script</i> eingefügt.</p>
 <p><img src="Bilder BJC/Alonso2.png" alt="Alonso2" style="width:630px;height:420px;border:420;"></p>
-
+<a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>
 
 <h3>
@@ -90,6 +90,6 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
 <p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke</p>
 <p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
-
+<a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 
 
