@@ -61,9 +61,9 @@ Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir u
 </h4>
 <p>In der heutigen Stunde haben wir noch die dritte Seite des 3. Labs bearbeitet, da wir in der letzten Stunde es nicht ganz geschafft haben, diese zu Ende zu bearbeiten. Es ging darum, einen Block zu programmieren, mit dessen Hilfe man ein 12 Vielecke zeichnen kann mit immer mehr Seiten. Da eine ähnliche Aufgabe schon zuvor einmal zu bearbeiten war, war diese Aufgabe recht schnell erledigt. 
 <p><img src="Bilder BJC/Polygons.png" alt="Polygons" style="width:630px;height:420px;border:420;"></p>
-Im Anschluss gab es noch eine klein Aufgabe, in der man vorhersagen sollte, was passieren würde, wenn man ein bestimmtes <i>Script</i> laufen lassen würde</p>
+Im Anschluss gab es noch eine klein Aufgabe, in der man vorhersagen sollte, was passieren würde, wenn man ein bestimmtes <i>Script</i> laufen lassen würde.
 <p><img src="Bilder BJC/Join_Block.png" alt="Join_Block" style="width:630px;height:420px;border:420;"></p>
-
+Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz problemlos vonstattenging
 <h4>
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
