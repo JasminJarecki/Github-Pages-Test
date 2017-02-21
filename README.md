@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <h3>
-Inhaltsverzeichnis
+<a id="Zur">Inhaltsverzeichnis</a>
 </h3>
 <ul> <li><a href="#Einl">1. Einleitung</a></li>
 <li><a href="#Dok">2. Stunden-Dokumentation</a></li>
@@ -69,6 +69,8 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 </h4>
 <p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Außerdem
 haben wir rausgefunden wie man eine Variable erstellt.</p>
+<a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
+
 <br>
 <h3>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
