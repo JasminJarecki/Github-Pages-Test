@@ -100,8 +100,8 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke</p>
 <p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
 <p><b><a id="Con">Control-Block</a></b> - Block, welcher das <i>Script</i> steuert, beispielsweise durch Wiederholungen</p>
-<p><b><a id="Mot">Motion-Block</a><b> - Block, welcher die Bewegung des Sprites steuert</p> 
-<p><b><a id="Loo">Looks-Block</a><b> - Block, welcher das Aussehen des Sprites bestimmt</p>
+<p><b><a id="Mot">Motion-Block</a><b> - Block, welcher die Bewegung des Sprites steuert
+<p><b><a id="Loo">Looks-Block</a><b> - Block, welcher das Aussehen des Sprites bestimmt
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 
 
