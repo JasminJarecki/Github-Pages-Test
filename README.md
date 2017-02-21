@@ -59,26 +59,27 @@ Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir u
 <h4>
 <p style="text-indent:20px;"><a id="142">14.02.17</a></p>
 </h4>
-<p>Heute haben wir die Extension activities gelöst und haben die letzte Seite von lab 3 inklusive der
-Extension activities mit Ton bearbeitet.
-Als Hausaufgabe schauen wir uns lab 4 an.</p>
+<p>In der heutigen Stunde haben wir noch die dritte Seite des 3. Labs bearbeitet, da wir in der letzten Stunde es nicht ganz geschafft haben, diese zu Ende zu bearbeiten. Es ging darum, einen Block zu programmieren, mit dessen Hilfe man ein 12 Vielecke zeichnen kann mit immer mehr Seiten. Da eine ähnliche Aufgabe schon zuvor einmal zu bearbeiten war, war diese Aufgabe recht schnell erledigt. 
+<p><img src="Bilder BJC/Polygons.png" alt="Polygons" style="width:630px;height:420px;border:420;"></p>
+Im Anschluss gab es noch eine klein Aufgabe, in der man vorhersagen sollte, was passieren würde, wenn man ein bestimmtes <i>Script</i> laufen lassen würde</p>
+<p><img src="Bilder BJC/Join_Block.png" alt="Join_Block" style="width:630px;height:420px;border:420;"></p>
 
 <h4>
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
 <p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Außerdem
 haben wir rausgefunden wie man eine Variable erstellt.</p>
-
+<br>
 <h3>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
 </h3>
 <h4>
 <p style="text-indent:20px;"><a id="U1L1">Programmieren von Lab1: Building an App</a></p>
 </h4>
-<p>Die erste zu programmierende Aufgabe ist es, ein <i>Script</i> zu bauen, dass, wenn man den <i>Sprite</i> anklickt, das <i>Costume</i> geändert wird. Aufgrund der sehr detaillierten Anleitungen auf den Aufgabenseiten selbst, wird hier auf genauere Erläuterungen verzichtet und nur das letztendliche <i>Script</i> eingefügt.</p>
+<p>Die erste zu programmierende Aufgabe ist es, ein <i>Script</i> zu bauen, sodass, wenn man den <i>Sprite</i> anklickt, das <i>Costume</i> geändert wird. Aufgrund der sehr detaillierten Anleitungen auf den Aufgabenseiten selbst, wird hier auf genauere Erläuterungen verzichtet und nur das letztendliche <i>Script</i> eingefügt.</p>
 <p><img src="Bilder BJC/Alonso2.png" alt="Alonso2" style="width:630px;height:420px;border:420;"></p>
 
-
+<br>
 
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
