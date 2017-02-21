@@ -81,9 +81,9 @@ haben wir rausgefunden wie man eine Variable erstellt.</p>
 <p>Die erste zu programmierende Aufgabe ist es, ein <i>Script</i> zu bauen, sodass, wenn man den <i>Sprite</i> anklickt, das <i>Costume</i> geändert wird. Aufgrund der sehr detaillierten Anleitungen auf den Aufgabenseiten selbst, wird hier auf genauere Erläuterungen verzichtet und nur das letztendliche <i>Script</i> eingefügt.</p>
 <p><img src="Bilder BJC/Alonso2.png" alt="Alonso2" style="width:630px;height:420px;border:420;"></p>
 <p>Im Folgenden wird der Operator-Block <i>pick random x to y</i> eingeführt. Mit diesem Operator werden Zahlen zufällig im Intervall I=[x;y] gewählt. Setzt man ihn beispielsweise für den Befehlsblock <i>move</i> ein, bewegt sich der Sprite zufällig um eine Länge des Intervalls.
-<p><img src="Bilder BJC/pickrandom2.png" alt="pickrandom2" style="width:420px;height:220px;border:420;"></p>
 <p>Die folgende Aufgabe funktioniert prinzipiell genauso wie die vorige unter Einbindung des Operators <i>pick random x to y</i>. Auch in diesem Fall ist bereits eine ausfürliche Beschreibung der Schritte vorhanden, weswegen hier wieder nur die Lösung aufgeführt wird.
 <p><img src="Bilder BJC/lab3A1.png" alt="lab3A1" style="width:371px;height:164px;border:0;"></p>
+<p><img src="Bilder BJC/pickrandom3.png" alt="pickrandom3" style="width:384px;height:183px;border:420;"></p>
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>
 
