@@ -42,16 +42,16 @@ Zunächst einmal musste man sich einen Account erstellen und sich anmelden. Ansc
 
 <p><img src="Bilder BJC/pickrandom.png" alt=" pickrandom " style="width:630px;height:420px;border:420;"></p>
 
-<p>Neben einigen Dingen, die wir unseren sogenannten <i><a href="#Spr">Sprite</a></i> (einer Art Akteur) tun lassen können, haben wir auch den <b><a href="#Ope">Operator</a></b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Problemebearbeitet.<br>
+<p>Neben einigen Dingen, die wir unseren sogenannten <i><a href="#Spr">Sprite</a></i> (einer Art Akteur) tun lassen können, haben wir auch den <b><a href="#Ope">Operator</a></b>-Block <mark><i>pick random x to y</i></mark> kennengelernt. <br>Die darauffolgenden Aufgaben des Lab 1 haben wir ohne Probleme bearbeitet.<br>
 Als nächstes haben wir mit Unit 1 Lab 2 angefangen. Es ging darum, wie man mithilfe des <i>Sprites</i> Formen zeichnen kann. Nachdem wir das erste <i><a href="#Scr">Script</a></i> nachgebaut haben, probierten wir ein wenig selbst aus, was möglich ist. <br>
 Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir uns als Hausaufgabe auf, so viel wie wir schaffen der ersten Unit bis zur nächsten Stunde selbstständig zu bearbeiten.</p>
 
 <h4>
 <p style="text-indent:20px;"><a id="092">09.02.17</a></p>
 </h4>
-<p>Wie vereinbart haben wir uns bis zur heutigen Stunde bereits zu Hause mit den weiteren Aufgaben der Unit 1 beschäftigt. Und wie es der Zufall so wollte sind wir beide an der gleichen Aufgabe hängen geblieben. Somit widmeten wir uns in der Stunde dem siebten Arbeitsauftrag der dritten Seite des Labs 3. Es ging darum, ein <i> Script</i> zu bauen, sodass der <i>Sprite</i> eine Spirale malt. Nach einigen Versuchen gelang es uns schließlich gemeinsam dafür eine Lösung zu finden.<br>
+<p>Wie vereinbart haben wir uns bis zur heutigen Stunde bereits zu Hause mit den weiteren Aufgaben der Unit 1 beschäftigt. Und wie es der Zufall so wollte sind wir beide an der gleichen Aufgabe hängen geblieben. Somit widmeten wir uns in der Stunde dem siebten Arbeitsauftrag der dritten Seite des Labs 3. Es ging darum, ein <i> Script</i> zu bauen, sodass der <i>Sprite</i> eine Spirale malt. Nach einigen Versuchen gelang es uns schließlich, gemeinsam dafür eine Lösung zu finden.<br>
 <p><img src="Bilder BJC/Spirale.png" alt="Spirale" style="width:630px;height:420px;border:420;"></p>
-<p>Das nächste Problem kam dann auf, als die Aufgabe lautete immer größer werdende Quadrate zu zeichnen, sodass ganz innen ein kleines war und nach außen die Quadrate immer größer wurden.</p>
+<p>Das nächste Problem kam dann auf, als die Aufgabe lautete, immer größer werdende Quadrate zu zeichnen, sodass ganz innen ein kleines war und nach außen die Quadrate immer größer wurden.</p>
 <p><img src="Bilder BJC/Quadrate1.png" alt="Quadrate1" style="width:630px;height:420px;border:420;"></p>
 <p><img src="Bilder BJC/Quadrate3.png" alt="Quadrate3" style="width:630px;height:420px;border:420;"></p>
 <p><img src="Bilder BJC/Quadrate2.png" alt="Quadrate2" style="width:630px;height:420px;border:420;"></p>
@@ -59,15 +59,15 @@ Damit wir uns nicht zu lange mit der Einführung in Snap! aufhalten, gaben wir u
 <h4>
 <p style="text-indent:20px;"><a id="142">14.02.17</a></p>
 </h4>
-<p>In der heutigen Stunde haben wir noch die dritte Seite des 3. Labs bearbeitet, da wir in der letzten Stunde es nicht ganz geschafft haben, diese zu Ende zu bearbeiten. Es ging darum, einen Block zu programmieren, mit dessen Hilfe man ein 12 Vielecke zeichnen kann mit immer mehr Seiten. Da eine ähnliche Aufgabe schon zuvor einmal zu bearbeiten war, war diese Aufgabe recht schnell erledigt. Wir haben allerdings noch hinzugefügt, dass man die Seitenlängen beliebig wählen kann.
+<p>In der heutigen Stunde haben wir noch die dritte Seite des 3. Labs bearbeitet, da wir in der letzten Stunde es nicht ganz geschafft haben, diese zu Ende zu bearbeiten. Es ging darum, einen Block zu programmieren, mit dessen Hilfe man 12 Vielecke zeichnen kann mit immer mehr Seiten. Da eine ähnliche Aufgabe schon zuvor einmal zu bearbeiten war, war diese Aufgabe recht schnell erledigt. Wir haben allerdings noch hinzugefügt, dass man die Seitenlängen beliebig wählen kann.
 <p><img src="Bilder BJC/Polygons.png" alt="Polygons" style="width:630px;height:420px;border:420;"></p>
-Im Anschluss gab es noch eine klein Aufgabe, in der man vorhersagen sollte, was passieren würde, wenn man ein bestimmtes <i>Script</i> laufen lassen würde.
+Im Anschluss gab es noch eine kleine Aufgabe, in der man vorhersagen sollte, was passieren würde, wenn man ein bestimmtes <i>Script</i> laufen lassen würde.
 <p><img src="Bilder BJC/Join_Block.png" alt="Join_Block" style="width:630px;height:420px;border:420;"></p>
-Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz problemlos vonstattenging
+Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz problemlos vonstatten ging.
 <h4>
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
-<p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Dafür haben wir zuerst einmal den Block <i>draw gameboard with _ tiles of _ per row</i> gebaut, mit welchem wir das Spielfeld mit beliebig vielen Feldern zeichnen können.  Als nächstes haben wir eine Kreuz- und eine Kreisgraphik als <i>Costume</i> eingefügt. Diese haben wir in unser Spielscript aufgenommen und dieses so programmiert, dass der Spieler die Kreisgraphik mit der Maus auf das Spielfeld ziehen kann. Nachdem die Grafik losgelassen wird, hinterlässt sie einen Stempel an der Stelle, gleitet zum Startpunkt zurück und wechselt zur nächsten Graphik.<p> <img src="Bilder BJC/Snap.png" alt="Snap" style="width:630px;height:420px;border:420;"></p> Nach beenden des Spiels haben wir rausgefunden wie man eine Variable erstellt.</p>
+<p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Dafür haben wir zuerst einmal den Block <mark><i>draw gameboard with _ tiles of _ per row</i></mark> gebaut, mit welchem wir das Spielfeld mit beliebig vielen Feldern zeichnen können.  Als nächstes haben wir eine Kreuz- und eine Kreisgraphik als <i>Costume</i> eingefügt. Diese haben wir in unser Spielscript aufgenommen und dieses so programmiert, dass der Spieler die Kreisgraphik mit der Maus auf das Spielfeld ziehen kann. Nachdem die Grafik losgelassen wird, hinterlässt sie einen Stempel an der Stelle, gleitet zum Startpunkt zurück und wechselt zur nächsten Graphik.<p> <img src="Bilder BJC/Snap.png" alt="Snap" style="width:630px;height:420px;border:420;"></p> Nach beenden des Spiels haben wir rausgefunden, wie man eine Variable erstellt.</p>
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 
 <br>
