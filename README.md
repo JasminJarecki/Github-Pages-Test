@@ -97,7 +97,7 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 </h3>
 <p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
 <p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
-<p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke</p>
+<p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke, die bestimmte Befehle darstellen</p>
 <p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
 <p><b><a id="Con">Control-Block</a></b> - Block, welcher das <i>Script</i> steuert, beispielsweise durch Wiederholungen</p>
 <p><b><a id="Mot">Motion-Block</a></b> - Block, welcher die Bewegung des Sprites steuert</p>
